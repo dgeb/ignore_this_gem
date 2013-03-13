@@ -1,3 +1,3 @@
 module IgnoreThisGem
-  VERSION = "0.2.3.rc3"
+  VERSION = "0.3.1"
 end
